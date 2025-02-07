@@ -28,6 +28,9 @@
 <input type="radio" name="kondisi" value="jelek">jelek<br>
 
 <input type="submit" name="submit" value="submit">
+
 </form>
+<form action="logout.php" method="POST">
+<button type="submit"><a href='indexlogin.php'>Logout</a></button>
 </body>
 </html>
